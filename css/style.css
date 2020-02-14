@@ -1,11 +1,12 @@
-html, body {
-  background: url("../img/raleigh.jpeg") center center no-repeat;
+html,
+body {
+  background: url("../img/mountain.jpeg") center center no-repeat;
   height: 100%;
   background-size: cover;
 }
 
 .navbar {
-  background-color: #b5f2b9;
+  background-color: #a0cbd1;
   opacity: 0.4;
   filter: alpha(opacity=20);
 }
@@ -34,12 +35,12 @@ a {
 }
 
 #icons .fa-linkedin:hover {
-  color: #3b5998;
+  color: #471edd;
   bottom: 5px;
 }
 
 #icons .fa-github-square:hover {
-  color: #3b5998;
+  color: #471edd;
   bottom: 22px;
 }
 
@@ -55,7 +56,7 @@ a {
 }
 
 .iconic {
-  color: #b5f2b9
+  color: #a0cbd1;
 }
 
 .horizontal-center {
